@@ -1,0 +1,22 @@
+{
+  "name": "whetu-engine-test",
+  "version": "0.0.1",
+  "description": "Test harness for the whetu-engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaxscape/whetu-engine-test.git"
+  },
+  "author": "Ben Surgison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajaxscape/whetu-engine-test/issues"
+  },
+  "homepage": "https://github.com/ajaxscape/whetu-engine-test#readme",
+  "dependencies": {
+    "whetu-engine": "^0.1.16"
+  }
+}
